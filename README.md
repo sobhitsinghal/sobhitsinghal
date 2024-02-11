@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React,Java,Oops,DSA**
 
-- 👨‍💻 All of my projects are available at [http://127.0.0.1:5500/PORTFOLIO/index.html](http://127.0.0.1:5500/PORTFOLIO/index.html)
+- 👨‍💻 All of my projects are available at [http://127.0.0.1:5500/Portfolio%20web/index.html)
 
 - 💬 Ask me about **C,Javascript,python**
 
